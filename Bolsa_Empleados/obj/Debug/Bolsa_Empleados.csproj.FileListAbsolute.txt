@@ -1,0 +1,388 @@
+C:\Users\Hector\source\repos\Bolsa_Empleados\Bolsa_Empleados\bin\Bolsa_Empleados.dll.config
+C:\Users\Hector\source\repos\Bolsa_Empleados\Bolsa_Empleados\bin\Bolsa_Empleados.dll
+C:\Users\Hector\source\repos\Bolsa_Empleados\Bolsa_Empleados\bin\Bolsa_Empleados.pdb
+C:\Users\Hector\source\repos\Bolsa_Empleados\Bolsa_Empleados\bin\roslyn\csc.exe
+C:\Users\Hector\source\repos\Bolsa_Empleados\Bolsa_Empleados\bin\roslyn\csc.exe.config
+C:\Users\Hector\source\repos\Bolsa_Empleados\Bolsa_Empleados\bin\roslyn\csc.rsp
+C:\Users\Hector\source\repos\Bolsa_Empleados\Bolsa_Empleados\bin\roslyn\csi.exe
+C:\Users\Hector\source\repos\Bolsa_Empleados\Bolsa_Empleados\bin\roslyn\csi.exe.config
+C:\Users\Hector\source\repos\Bolsa_Empleados\Bolsa_Empleados\bin\roslyn\csi.rsp
+C:\Users\Hector\source\repos\Bolsa_Empleados\Bolsa_Empleados\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Hector\source\repos\Bolsa_Empleados\Bolsa_Empleados\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Hector\source\repos\Bolsa_Empleados\Bolsa_Empleados\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Hector\source\repos\Bolsa_Empleados\Bolsa_Empleados\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Hector\source\repos\Bolsa_Empleados\Bolsa_Empleados\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Hector\source\repos\Bolsa_Empleados\Bolsa_Empleados\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Hector\source\repos\Bolsa_Empleados\Bolsa_Empleados\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Hector\source\repos\Bolsa_Empleados\Bolsa_Empleados\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Hector\source\repos\Bolsa_Empleados\Bolsa_Empleados\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Hector\source\repos\Bolsa_Empleados\Bolsa_Empleados\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Hector\source\repos\Bolsa_Empleados\Bolsa_Empleados\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Hector\source\repos\Bolsa_Empleados\Bolsa_Empleados\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Hector\source\repos\Bolsa_Empleados\Bolsa_Empleados\bin\roslyn\System.AppContext.dll
+C:\Users\Hector\source\repos\Bolsa_Empleados\Bolsa_Empleados\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Hector\source\repos\Bolsa_Empleados\Bolsa_Empleados\bin\roslyn\System.Console.dll
+C:\Users\Hector\source\repos\Bolsa_Empleados\Bolsa_Empleados\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Hector\source\repos\Bolsa_Empleados\Bolsa_Empleados\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Hector\source\repos\Bolsa_Empleados\Bolsa_Empleados\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Hector\source\repos\Bolsa_Empleados\Bolsa_Empleados\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Hector\source\repos\Bolsa_Empleados\Bolsa_Empleados\bin\roslyn\System.IO.Compression.dll
+C:\Users\Hector\source\repos\Bolsa_Empleados\Bolsa_Empleados\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Hector\source\repos\Bolsa_Empleados\Bolsa_Empleados\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Hector\source\repos\Bolsa_Empleados\Bolsa_Empleados\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Hector\source\repos\Bolsa_Empleados\Bolsa_Empleados\bin\roslyn\System.Net.Http.dll
+C:\Users\Hector\source\repos\Bolsa_Empleados\Bolsa_Empleados\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Hector\source\repos\Bolsa_Empleados\Bolsa_Empleados\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Hector\source\repos\Bolsa_Empleados\Bolsa_Empleados\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Hector\source\repos\Bolsa_Empleados\Bolsa_Empleados\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Hector\source\repos\Bolsa_Empleados\Bolsa_Empleados\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Hector\source\repos\Bolsa_Empleados\Bolsa_Empleados\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Hector\source\repos\Bolsa_Empleados\Bolsa_Empleados\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Hector\source\repos\Bolsa_Empleados\Bolsa_Empleados\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Hector\source\repos\Bolsa_Empleados\Bolsa_Empleados\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Hector\source\repos\Bolsa_Empleados\Bolsa_Empleados\bin\roslyn\System.ValueTuple.dll
+C:\Users\Hector\source\repos\Bolsa_Empleados\Bolsa_Empleados\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Hector\source\repos\Bolsa_Empleados\Bolsa_Empleados\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Hector\source\repos\Bolsa_Empleados\Bolsa_Empleados\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Hector\source\repos\Bolsa_Empleados\Bolsa_Empleados\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Hector\source\repos\Bolsa_Empleados\Bolsa_Empleados\bin\roslyn\vbc.exe
+C:\Users\Hector\source\repos\Bolsa_Empleados\Bolsa_Empleados\bin\roslyn\vbc.exe.config
+C:\Users\Hector\source\repos\Bolsa_Empleados\Bolsa_Empleados\bin\roslyn\vbc.rsp
+C:\Users\Hector\source\repos\Bolsa_Empleados\Bolsa_Empleados\bin\roslyn\VBCSCompiler.exe
+C:\Users\Hector\source\repos\Bolsa_Empleados\Bolsa_Empleados\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Hector\source\repos\Bolsa_Empleados\Bolsa_Empleados\bin\EntityFramework.dll
+C:\Users\Hector\source\repos\Bolsa_Empleados\Bolsa_Empleados\bin\EntityFramework.SqlServer.dll
+C:\Users\Hector\source\repos\Bolsa_Empleados\Bolsa_Empleados\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Hector\source\repos\Bolsa_Empleados\Bolsa_Empleados\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Hector\source\repos\Bolsa_Empleados\Bolsa_Empleados\bin\Newtonsoft.Json.dll
+C:\Users\Hector\source\repos\Bolsa_Empleados\Bolsa_Empleados\bin\System.Net.Http.Formatting.dll
+C:\Users\Hector\source\repos\Bolsa_Empleados\Bolsa_Empleados\bin\System.Web.Helpers.dll
+C:\Users\Hector\source\repos\Bolsa_Empleados\Bolsa_Empleados\bin\System.Web.Http.dll
+C:\Users\Hector\source\repos\Bolsa_Empleados\Bolsa_Empleados\bin\System.Web.Http.WebHost.dll
+C:\Users\Hector\source\repos\Bolsa_Empleados\Bolsa_Empleados\bin\System.Web.Mvc.dll
+C:\Users\Hector\source\repos\Bolsa_Empleados\Bolsa_Empleados\bin\System.Web.Optimization.dll
+C:\Users\Hector\source\repos\Bolsa_Empleados\Bolsa_Empleados\bin\System.Web.Razor.dll
+C:\Users\Hector\source\repos\Bolsa_Empleados\Bolsa_Empleados\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Hector\source\repos\Bolsa_Empleados\Bolsa_Empleados\bin\System.Web.WebPages.dll
+C:\Users\Hector\source\repos\Bolsa_Empleados\Bolsa_Empleados\bin\System.Web.WebPages.Razor.dll
+C:\Users\Hector\source\repos\Bolsa_Empleados\Bolsa_Empleados\bin\WebGrease.dll
+C:\Users\Hector\source\repos\Bolsa_Empleados\Bolsa_Empleados\bin\EntityFramework.xml
+C:\Users\Hector\source\repos\Bolsa_Empleados\Bolsa_Empleados\bin\EntityFramework.SqlServer.xml
+C:\Users\Hector\source\repos\Bolsa_Empleados\Bolsa_Empleados\bin\Newtonsoft.Json.xml
+C:\Users\Hector\source\repos\Bolsa_Empleados\Bolsa_Empleados\bin\System.Net.Http.Formatting.xml
+C:\Users\Hector\source\repos\Bolsa_Empleados\Bolsa_Empleados\bin\System.Web.Helpers.xml
+C:\Users\Hector\source\repos\Bolsa_Empleados\Bolsa_Empleados\bin\System.Web.Http.xml
+C:\Users\Hector\source\repos\Bolsa_Empleados\Bolsa_Empleados\bin\System.Web.Http.WebHost.xml
+C:\Users\Hector\source\repos\Bolsa_Empleados\Bolsa_Empleados\bin\System.Web.Mvc.xml
+C:\Users\Hector\source\repos\Bolsa_Empleados\Bolsa_Empleados\bin\System.Web.Optimization.xml
+C:\Users\Hector\source\repos\Bolsa_Empleados\Bolsa_Empleados\bin\System.Web.Razor.xml
+C:\Users\Hector\source\repos\Bolsa_Empleados\Bolsa_Empleados\bin\System.Web.WebPages.xml
+C:\Users\Hector\source\repos\Bolsa_Empleados\Bolsa_Empleados\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Hector\source\repos\Bolsa_Empleados\Bolsa_Empleados\bin\System.Web.WebPages.Razor.xml
+C:\Users\Hector\source\repos\Bolsa_Empleados\Bolsa_Empleados\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Hector\source\repos\Bolsa_Empleados\Bolsa_Empleados\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\Hector\source\repos\Bolsa_Empleados\Bolsa_Empleados\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Hector\source\repos\Bolsa_Empleados\Bolsa_Empleados\bin\es\System.Web.Http.resources.dll
+C:\Users\Hector\source\repos\Bolsa_Empleados\Bolsa_Empleados\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\Hector\source\repos\Bolsa_Empleados\Bolsa_Empleados\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Hector\source\repos\Bolsa_Empleados\Bolsa_Empleados\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Hector\source\repos\Bolsa_Empleados\Bolsa_Empleados\bin\es\System.Web.Razor.resources.dll
+C:\Users\Hector\source\repos\Bolsa_Empleados\Bolsa_Empleados\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Hector\source\repos\Bolsa_Empleados\Bolsa_Empleados\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Hector\source\repos\Bolsa_Empleados\Bolsa_Empleados\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Hector\source\repos\Bolsa_Empleados\Bolsa_Empleados\obj\Debug\Bolsa_Empleados.csproj.CoreCompileInputs.cache
+C:\Users\Hector\source\repos\Bolsa_Empleados\Bolsa_Empleados\obj\Debug\Bolsa_Empleados.csproj.CopyComplete
+C:\Users\Hector\source\repos\Bolsa_Empleados\Bolsa_Empleados\obj\Debug\Bolsa_Empleados.dll
+C:\Users\Hector\source\repos\Bolsa_Empleados\Bolsa_Empleados\obj\Debug\Bolsa_Empleados.pdb
+C:\Users\Hector\source\repos\Bolsa_Empleados\Bolsa_Empleados\obj\Debug\Bolsa_Empleados.csproj.AssemblyReference.cache
+C:\Users\fede7\Documents\6TO CUATRIMESTRE\Programacion III\Bolsa_Empleados\Bolsa_Empleados\bin\Bolsa_Empleados.dll.config
+C:\Users\fede7\Documents\6TO CUATRIMESTRE\Programacion III\Bolsa_Empleados\Bolsa_Empleados\bin\Bolsa_Empleados.dll
+C:\Users\fede7\Documents\6TO CUATRIMESTRE\Programacion III\Bolsa_Empleados\Bolsa_Empleados\bin\Bolsa_Empleados.pdb
+C:\Users\fede7\Documents\6TO CUATRIMESTRE\Programacion III\Bolsa_Empleados\Bolsa_Empleados\bin\roslyn\csc.exe
+C:\Users\fede7\Documents\6TO CUATRIMESTRE\Programacion III\Bolsa_Empleados\Bolsa_Empleados\bin\roslyn\csc.exe.config
+C:\Users\fede7\Documents\6TO CUATRIMESTRE\Programacion III\Bolsa_Empleados\Bolsa_Empleados\bin\roslyn\csc.rsp
+C:\Users\fede7\Documents\6TO CUATRIMESTRE\Programacion III\Bolsa_Empleados\Bolsa_Empleados\bin\roslyn\csi.exe
+C:\Users\fede7\Documents\6TO CUATRIMESTRE\Programacion III\Bolsa_Empleados\Bolsa_Empleados\bin\roslyn\csi.exe.config
+C:\Users\fede7\Documents\6TO CUATRIMESTRE\Programacion III\Bolsa_Empleados\Bolsa_Empleados\bin\roslyn\csi.rsp
+C:\Users\fede7\Documents\6TO CUATRIMESTRE\Programacion III\Bolsa_Empleados\Bolsa_Empleados\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\fede7\Documents\6TO CUATRIMESTRE\Programacion III\Bolsa_Empleados\Bolsa_Empleados\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\fede7\Documents\6TO CUATRIMESTRE\Programacion III\Bolsa_Empleados\Bolsa_Empleados\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\fede7\Documents\6TO CUATRIMESTRE\Programacion III\Bolsa_Empleados\Bolsa_Empleados\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\fede7\Documents\6TO CUATRIMESTRE\Programacion III\Bolsa_Empleados\Bolsa_Empleados\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\fede7\Documents\6TO CUATRIMESTRE\Programacion III\Bolsa_Empleados\Bolsa_Empleados\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\fede7\Documents\6TO CUATRIMESTRE\Programacion III\Bolsa_Empleados\Bolsa_Empleados\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\fede7\Documents\6TO CUATRIMESTRE\Programacion III\Bolsa_Empleados\Bolsa_Empleados\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\fede7\Documents\6TO CUATRIMESTRE\Programacion III\Bolsa_Empleados\Bolsa_Empleados\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\fede7\Documents\6TO CUATRIMESTRE\Programacion III\Bolsa_Empleados\Bolsa_Empleados\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\fede7\Documents\6TO CUATRIMESTRE\Programacion III\Bolsa_Empleados\Bolsa_Empleados\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\fede7\Documents\6TO CUATRIMESTRE\Programacion III\Bolsa_Empleados\Bolsa_Empleados\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\fede7\Documents\6TO CUATRIMESTRE\Programacion III\Bolsa_Empleados\Bolsa_Empleados\bin\roslyn\System.AppContext.dll
+C:\Users\fede7\Documents\6TO CUATRIMESTRE\Programacion III\Bolsa_Empleados\Bolsa_Empleados\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\fede7\Documents\6TO CUATRIMESTRE\Programacion III\Bolsa_Empleados\Bolsa_Empleados\bin\roslyn\System.Console.dll
+C:\Users\fede7\Documents\6TO CUATRIMESTRE\Programacion III\Bolsa_Empleados\Bolsa_Empleados\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\fede7\Documents\6TO CUATRIMESTRE\Programacion III\Bolsa_Empleados\Bolsa_Empleados\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\fede7\Documents\6TO CUATRIMESTRE\Programacion III\Bolsa_Empleados\Bolsa_Empleados\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\fede7\Documents\6TO CUATRIMESTRE\Programacion III\Bolsa_Empleados\Bolsa_Empleados\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\fede7\Documents\6TO CUATRIMESTRE\Programacion III\Bolsa_Empleados\Bolsa_Empleados\bin\roslyn\System.IO.Compression.dll
+C:\Users\fede7\Documents\6TO CUATRIMESTRE\Programacion III\Bolsa_Empleados\Bolsa_Empleados\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\fede7\Documents\6TO CUATRIMESTRE\Programacion III\Bolsa_Empleados\Bolsa_Empleados\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\fede7\Documents\6TO CUATRIMESTRE\Programacion III\Bolsa_Empleados\Bolsa_Empleados\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\fede7\Documents\6TO CUATRIMESTRE\Programacion III\Bolsa_Empleados\Bolsa_Empleados\bin\roslyn\System.Net.Http.dll
+C:\Users\fede7\Documents\6TO CUATRIMESTRE\Programacion III\Bolsa_Empleados\Bolsa_Empleados\bin\roslyn\System.Net.Sockets.dll
+C:\Users\fede7\Documents\6TO CUATRIMESTRE\Programacion III\Bolsa_Empleados\Bolsa_Empleados\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\fede7\Documents\6TO CUATRIMESTRE\Programacion III\Bolsa_Empleados\Bolsa_Empleados\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\fede7\Documents\6TO CUATRIMESTRE\Programacion III\Bolsa_Empleados\Bolsa_Empleados\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\fede7\Documents\6TO CUATRIMESTRE\Programacion III\Bolsa_Empleados\Bolsa_Empleados\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\fede7\Documents\6TO CUATRIMESTRE\Programacion III\Bolsa_Empleados\Bolsa_Empleados\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\fede7\Documents\6TO CUATRIMESTRE\Programacion III\Bolsa_Empleados\Bolsa_Empleados\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\fede7\Documents\6TO CUATRIMESTRE\Programacion III\Bolsa_Empleados\Bolsa_Empleados\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\fede7\Documents\6TO CUATRIMESTRE\Programacion III\Bolsa_Empleados\Bolsa_Empleados\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\fede7\Documents\6TO CUATRIMESTRE\Programacion III\Bolsa_Empleados\Bolsa_Empleados\bin\roslyn\System.ValueTuple.dll
+C:\Users\fede7\Documents\6TO CUATRIMESTRE\Programacion III\Bolsa_Empleados\Bolsa_Empleados\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\fede7\Documents\6TO CUATRIMESTRE\Programacion III\Bolsa_Empleados\Bolsa_Empleados\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\fede7\Documents\6TO CUATRIMESTRE\Programacion III\Bolsa_Empleados\Bolsa_Empleados\bin\roslyn\System.Xml.XPath.dll
+C:\Users\fede7\Documents\6TO CUATRIMESTRE\Programacion III\Bolsa_Empleados\Bolsa_Empleados\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\fede7\Documents\6TO CUATRIMESTRE\Programacion III\Bolsa_Empleados\Bolsa_Empleados\bin\roslyn\vbc.exe
+C:\Users\fede7\Documents\6TO CUATRIMESTRE\Programacion III\Bolsa_Empleados\Bolsa_Empleados\bin\roslyn\vbc.exe.config
+C:\Users\fede7\Documents\6TO CUATRIMESTRE\Programacion III\Bolsa_Empleados\Bolsa_Empleados\bin\roslyn\vbc.rsp
+C:\Users\fede7\Documents\6TO CUATRIMESTRE\Programacion III\Bolsa_Empleados\Bolsa_Empleados\bin\roslyn\VBCSCompiler.exe
+C:\Users\fede7\Documents\6TO CUATRIMESTRE\Programacion III\Bolsa_Empleados\Bolsa_Empleados\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\fede7\Documents\6TO CUATRIMESTRE\Programacion III\Bolsa_Empleados\Bolsa_Empleados\bin\EntityFramework.dll
+C:\Users\fede7\Documents\6TO CUATRIMESTRE\Programacion III\Bolsa_Empleados\Bolsa_Empleados\bin\EntityFramework.SqlServer.dll
+C:\Users\fede7\Documents\6TO CUATRIMESTRE\Programacion III\Bolsa_Empleados\Bolsa_Empleados\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\fede7\Documents\6TO CUATRIMESTRE\Programacion III\Bolsa_Empleados\Bolsa_Empleados\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\fede7\Documents\6TO CUATRIMESTRE\Programacion III\Bolsa_Empleados\Bolsa_Empleados\bin\Newtonsoft.Json.dll
+C:\Users\fede7\Documents\6TO CUATRIMESTRE\Programacion III\Bolsa_Empleados\Bolsa_Empleados\bin\System.Net.Http.Formatting.dll
+C:\Users\fede7\Documents\6TO CUATRIMESTRE\Programacion III\Bolsa_Empleados\Bolsa_Empleados\bin\System.Web.Helpers.dll
+C:\Users\fede7\Documents\6TO CUATRIMESTRE\Programacion III\Bolsa_Empleados\Bolsa_Empleados\bin\System.Web.Http.dll
+C:\Users\fede7\Documents\6TO CUATRIMESTRE\Programacion III\Bolsa_Empleados\Bolsa_Empleados\bin\System.Web.Http.WebHost.dll
+C:\Users\fede7\Documents\6TO CUATRIMESTRE\Programacion III\Bolsa_Empleados\Bolsa_Empleados\bin\System.Web.Mvc.dll
+C:\Users\fede7\Documents\6TO CUATRIMESTRE\Programacion III\Bolsa_Empleados\Bolsa_Empleados\bin\System.Web.Optimization.dll
+C:\Users\fede7\Documents\6TO CUATRIMESTRE\Programacion III\Bolsa_Empleados\Bolsa_Empleados\bin\System.Web.Razor.dll
+C:\Users\fede7\Documents\6TO CUATRIMESTRE\Programacion III\Bolsa_Empleados\Bolsa_Empleados\bin\System.Web.WebPages.Deployment.dll
+C:\Users\fede7\Documents\6TO CUATRIMESTRE\Programacion III\Bolsa_Empleados\Bolsa_Empleados\bin\System.Web.WebPages.dll
+C:\Users\fede7\Documents\6TO CUATRIMESTRE\Programacion III\Bolsa_Empleados\Bolsa_Empleados\bin\System.Web.WebPages.Razor.dll
+C:\Users\fede7\Documents\6TO CUATRIMESTRE\Programacion III\Bolsa_Empleados\Bolsa_Empleados\bin\WebGrease.dll
+C:\Users\fede7\Documents\6TO CUATRIMESTRE\Programacion III\Bolsa_Empleados\Bolsa_Empleados\bin\EntityFramework.xml
+C:\Users\fede7\Documents\6TO CUATRIMESTRE\Programacion III\Bolsa_Empleados\Bolsa_Empleados\bin\EntityFramework.SqlServer.xml
+C:\Users\fede7\Documents\6TO CUATRIMESTRE\Programacion III\Bolsa_Empleados\Bolsa_Empleados\bin\Newtonsoft.Json.xml
+C:\Users\fede7\Documents\6TO CUATRIMESTRE\Programacion III\Bolsa_Empleados\Bolsa_Empleados\bin\System.Net.Http.Formatting.xml
+C:\Users\fede7\Documents\6TO CUATRIMESTRE\Programacion III\Bolsa_Empleados\Bolsa_Empleados\bin\System.Web.Helpers.xml
+C:\Users\fede7\Documents\6TO CUATRIMESTRE\Programacion III\Bolsa_Empleados\Bolsa_Empleados\bin\System.Web.Http.xml
+C:\Users\fede7\Documents\6TO CUATRIMESTRE\Programacion III\Bolsa_Empleados\Bolsa_Empleados\bin\System.Web.Http.WebHost.xml
+C:\Users\fede7\Documents\6TO CUATRIMESTRE\Programacion III\Bolsa_Empleados\Bolsa_Empleados\bin\System.Web.Mvc.xml
+C:\Users\fede7\Documents\6TO CUATRIMESTRE\Programacion III\Bolsa_Empleados\Bolsa_Empleados\bin\System.Web.Optimization.xml
+C:\Users\fede7\Documents\6TO CUATRIMESTRE\Programacion III\Bolsa_Empleados\Bolsa_Empleados\bin\System.Web.Razor.xml
+C:\Users\fede7\Documents\6TO CUATRIMESTRE\Programacion III\Bolsa_Empleados\Bolsa_Empleados\bin\System.Web.WebPages.xml
+C:\Users\fede7\Documents\6TO CUATRIMESTRE\Programacion III\Bolsa_Empleados\Bolsa_Empleados\bin\System.Web.WebPages.Deployment.xml
+C:\Users\fede7\Documents\6TO CUATRIMESTRE\Programacion III\Bolsa_Empleados\Bolsa_Empleados\bin\System.Web.WebPages.Razor.xml
+C:\Users\fede7\Documents\6TO CUATRIMESTRE\Programacion III\Bolsa_Empleados\Bolsa_Empleados\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\fede7\Documents\6TO CUATRIMESTRE\Programacion III\Bolsa_Empleados\Bolsa_Empleados\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\fede7\Documents\6TO CUATRIMESTRE\Programacion III\Bolsa_Empleados\Bolsa_Empleados\bin\es\System.Web.Helpers.resources.dll
+C:\Users\fede7\Documents\6TO CUATRIMESTRE\Programacion III\Bolsa_Empleados\Bolsa_Empleados\bin\es\System.Web.Http.resources.dll
+C:\Users\fede7\Documents\6TO CUATRIMESTRE\Programacion III\Bolsa_Empleados\Bolsa_Empleados\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\fede7\Documents\6TO CUATRIMESTRE\Programacion III\Bolsa_Empleados\Bolsa_Empleados\bin\es\System.Web.Mvc.resources.dll
+C:\Users\fede7\Documents\6TO CUATRIMESTRE\Programacion III\Bolsa_Empleados\Bolsa_Empleados\bin\es\System.Web.Optimization.resources.dll
+C:\Users\fede7\Documents\6TO CUATRIMESTRE\Programacion III\Bolsa_Empleados\Bolsa_Empleados\bin\es\System.Web.Razor.resources.dll
+C:\Users\fede7\Documents\6TO CUATRIMESTRE\Programacion III\Bolsa_Empleados\Bolsa_Empleados\bin\es\System.Web.WebPages.resources.dll
+C:\Users\fede7\Documents\6TO CUATRIMESTRE\Programacion III\Bolsa_Empleados\Bolsa_Empleados\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\fede7\Documents\6TO CUATRIMESTRE\Programacion III\Bolsa_Empleados\Bolsa_Empleados\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\fede7\Documents\6TO CUATRIMESTRE\Programacion III\Bolsa_Empleados\Bolsa_Empleados\obj\Debug\Bolsa_Empleados.csproj.CoreCompileInputs.cache
+C:\Users\fede7\Documents\6TO CUATRIMESTRE\Programacion III\Bolsa_Empleados\Bolsa_Empleados\obj\Debug\Bolsa_Empleados.csproj.CopyComplete
+C:\Users\fede7\Documents\6TO CUATRIMESTRE\Programacion III\Bolsa_Empleados\Bolsa_Empleados\obj\Debug\Bolsa_Empleados.dll
+C:\Users\fede7\Documents\6TO CUATRIMESTRE\Programacion III\Bolsa_Empleados\Bolsa_Empleados\obj\Debug\Bolsa_Empleados.pdb
+C:\Users\fede7\Documents\6TO CUATRIMESTRE\Programacion III\Bolsa_Empleados\Bolsa_Empleados\obj\Debug\Bolsa_Empleados.csprojAssemblyReference.cache
+C:\Users\Hector\Desktop\Bolsa_Empleados\Bolsa_Empleados\bin\Bolsa_Empleados.dll.config
+C:\Users\Hector\Desktop\Bolsa_Empleados\Bolsa_Empleados\bin\Bolsa_Empleados.dll
+C:\Users\Hector\Desktop\Bolsa_Empleados\Bolsa_Empleados\bin\Bolsa_Empleados.pdb
+C:\Users\Hector\Desktop\Bolsa_Empleados\Bolsa_Empleados\bin\roslyn\csc.exe
+C:\Users\Hector\Desktop\Bolsa_Empleados\Bolsa_Empleados\bin\roslyn\csc.exe.config
+C:\Users\Hector\Desktop\Bolsa_Empleados\Bolsa_Empleados\bin\roslyn\csc.rsp
+C:\Users\Hector\Desktop\Bolsa_Empleados\Bolsa_Empleados\bin\roslyn\csi.exe
+C:\Users\Hector\Desktop\Bolsa_Empleados\Bolsa_Empleados\bin\roslyn\csi.exe.config
+C:\Users\Hector\Desktop\Bolsa_Empleados\Bolsa_Empleados\bin\roslyn\csi.rsp
+C:\Users\Hector\Desktop\Bolsa_Empleados\Bolsa_Empleados\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Hector\Desktop\Bolsa_Empleados\Bolsa_Empleados\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Hector\Desktop\Bolsa_Empleados\Bolsa_Empleados\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Hector\Desktop\Bolsa_Empleados\Bolsa_Empleados\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Hector\Desktop\Bolsa_Empleados\Bolsa_Empleados\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Hector\Desktop\Bolsa_Empleados\Bolsa_Empleados\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Hector\Desktop\Bolsa_Empleados\Bolsa_Empleados\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Hector\Desktop\Bolsa_Empleados\Bolsa_Empleados\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Hector\Desktop\Bolsa_Empleados\Bolsa_Empleados\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Hector\Desktop\Bolsa_Empleados\Bolsa_Empleados\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Hector\Desktop\Bolsa_Empleados\Bolsa_Empleados\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Hector\Desktop\Bolsa_Empleados\Bolsa_Empleados\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Hector\Desktop\Bolsa_Empleados\Bolsa_Empleados\bin\roslyn\System.AppContext.dll
+C:\Users\Hector\Desktop\Bolsa_Empleados\Bolsa_Empleados\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Hector\Desktop\Bolsa_Empleados\Bolsa_Empleados\bin\roslyn\System.Console.dll
+C:\Users\Hector\Desktop\Bolsa_Empleados\Bolsa_Empleados\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Hector\Desktop\Bolsa_Empleados\Bolsa_Empleados\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Hector\Desktop\Bolsa_Empleados\Bolsa_Empleados\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Hector\Desktop\Bolsa_Empleados\Bolsa_Empleados\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Hector\Desktop\Bolsa_Empleados\Bolsa_Empleados\bin\roslyn\System.IO.Compression.dll
+C:\Users\Hector\Desktop\Bolsa_Empleados\Bolsa_Empleados\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Hector\Desktop\Bolsa_Empleados\Bolsa_Empleados\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Hector\Desktop\Bolsa_Empleados\Bolsa_Empleados\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Hector\Desktop\Bolsa_Empleados\Bolsa_Empleados\bin\roslyn\System.Net.Http.dll
+C:\Users\Hector\Desktop\Bolsa_Empleados\Bolsa_Empleados\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Hector\Desktop\Bolsa_Empleados\Bolsa_Empleados\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Hector\Desktop\Bolsa_Empleados\Bolsa_Empleados\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Hector\Desktop\Bolsa_Empleados\Bolsa_Empleados\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Hector\Desktop\Bolsa_Empleados\Bolsa_Empleados\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Hector\Desktop\Bolsa_Empleados\Bolsa_Empleados\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Hector\Desktop\Bolsa_Empleados\Bolsa_Empleados\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Hector\Desktop\Bolsa_Empleados\Bolsa_Empleados\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Hector\Desktop\Bolsa_Empleados\Bolsa_Empleados\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Hector\Desktop\Bolsa_Empleados\Bolsa_Empleados\bin\roslyn\System.ValueTuple.dll
+C:\Users\Hector\Desktop\Bolsa_Empleados\Bolsa_Empleados\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Hector\Desktop\Bolsa_Empleados\Bolsa_Empleados\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Hector\Desktop\Bolsa_Empleados\Bolsa_Empleados\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Hector\Desktop\Bolsa_Empleados\Bolsa_Empleados\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Hector\Desktop\Bolsa_Empleados\Bolsa_Empleados\bin\roslyn\vbc.exe
+C:\Users\Hector\Desktop\Bolsa_Empleados\Bolsa_Empleados\bin\roslyn\vbc.exe.config
+C:\Users\Hector\Desktop\Bolsa_Empleados\Bolsa_Empleados\bin\roslyn\vbc.rsp
+C:\Users\Hector\Desktop\Bolsa_Empleados\Bolsa_Empleados\bin\roslyn\VBCSCompiler.exe
+C:\Users\Hector\Desktop\Bolsa_Empleados\Bolsa_Empleados\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Hector\Desktop\Bolsa_Empleados\Bolsa_Empleados\bin\EntityFramework.dll
+C:\Users\Hector\Desktop\Bolsa_Empleados\Bolsa_Empleados\bin\EntityFramework.SqlServer.dll
+C:\Users\Hector\Desktop\Bolsa_Empleados\Bolsa_Empleados\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Hector\Desktop\Bolsa_Empleados\Bolsa_Empleados\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Hector\Desktop\Bolsa_Empleados\Bolsa_Empleados\bin\Newtonsoft.Json.dll
+C:\Users\Hector\Desktop\Bolsa_Empleados\Bolsa_Empleados\bin\System.Net.Http.Formatting.dll
+C:\Users\Hector\Desktop\Bolsa_Empleados\Bolsa_Empleados\bin\System.Web.Helpers.dll
+C:\Users\Hector\Desktop\Bolsa_Empleados\Bolsa_Empleados\bin\System.Web.Http.dll
+C:\Users\Hector\Desktop\Bolsa_Empleados\Bolsa_Empleados\bin\System.Web.Http.WebHost.dll
+C:\Users\Hector\Desktop\Bolsa_Empleados\Bolsa_Empleados\bin\System.Web.Mvc.dll
+C:\Users\Hector\Desktop\Bolsa_Empleados\Bolsa_Empleados\bin\System.Web.Optimization.dll
+C:\Users\Hector\Desktop\Bolsa_Empleados\Bolsa_Empleados\bin\System.Web.Razor.dll
+C:\Users\Hector\Desktop\Bolsa_Empleados\Bolsa_Empleados\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Hector\Desktop\Bolsa_Empleados\Bolsa_Empleados\bin\System.Web.WebPages.dll
+C:\Users\Hector\Desktop\Bolsa_Empleados\Bolsa_Empleados\bin\System.Web.WebPages.Razor.dll
+C:\Users\Hector\Desktop\Bolsa_Empleados\Bolsa_Empleados\bin\WebGrease.dll
+C:\Users\Hector\Desktop\Bolsa_Empleados\Bolsa_Empleados\bin\EntityFramework.xml
+C:\Users\Hector\Desktop\Bolsa_Empleados\Bolsa_Empleados\bin\EntityFramework.SqlServer.xml
+C:\Users\Hector\Desktop\Bolsa_Empleados\Bolsa_Empleados\bin\Newtonsoft.Json.xml
+C:\Users\Hector\Desktop\Bolsa_Empleados\Bolsa_Empleados\bin\System.Net.Http.Formatting.xml
+C:\Users\Hector\Desktop\Bolsa_Empleados\Bolsa_Empleados\bin\System.Web.Helpers.xml
+C:\Users\Hector\Desktop\Bolsa_Empleados\Bolsa_Empleados\bin\System.Web.Http.xml
+C:\Users\Hector\Desktop\Bolsa_Empleados\Bolsa_Empleados\bin\System.Web.Http.WebHost.xml
+C:\Users\Hector\Desktop\Bolsa_Empleados\Bolsa_Empleados\bin\System.Web.Mvc.xml
+C:\Users\Hector\Desktop\Bolsa_Empleados\Bolsa_Empleados\bin\System.Web.Optimization.xml
+C:\Users\Hector\Desktop\Bolsa_Empleados\Bolsa_Empleados\bin\System.Web.Razor.xml
+C:\Users\Hector\Desktop\Bolsa_Empleados\Bolsa_Empleados\bin\System.Web.WebPages.xml
+C:\Users\Hector\Desktop\Bolsa_Empleados\Bolsa_Empleados\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Hector\Desktop\Bolsa_Empleados\Bolsa_Empleados\bin\System.Web.WebPages.Razor.xml
+C:\Users\Hector\Desktop\Bolsa_Empleados\Bolsa_Empleados\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Hector\Desktop\Bolsa_Empleados\Bolsa_Empleados\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\Hector\Desktop\Bolsa_Empleados\Bolsa_Empleados\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Hector\Desktop\Bolsa_Empleados\Bolsa_Empleados\bin\es\System.Web.Http.resources.dll
+C:\Users\Hector\Desktop\Bolsa_Empleados\Bolsa_Empleados\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\Hector\Desktop\Bolsa_Empleados\Bolsa_Empleados\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Hector\Desktop\Bolsa_Empleados\Bolsa_Empleados\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Hector\Desktop\Bolsa_Empleados\Bolsa_Empleados\bin\es\System.Web.Razor.resources.dll
+C:\Users\Hector\Desktop\Bolsa_Empleados\Bolsa_Empleados\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Hector\Desktop\Bolsa_Empleados\Bolsa_Empleados\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Hector\Desktop\Bolsa_Empleados\Bolsa_Empleados\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Hector\Desktop\Bolsa_Empleados\Bolsa_Empleados\obj\Debug\Bolsa_Empleados.csproj.AssemblyReference.cache
+C:\Users\Hector\Desktop\Bolsa_Empleados\Bolsa_Empleados\obj\Debug\Bolsa_Empleados.csproj.CoreCompileInputs.cache
+C:\Users\Hector\Desktop\Bolsa_Empleados\Bolsa_Empleados\obj\Debug\Bolsa_Empleados.csproj.CopyComplete
+C:\Users\Hector\Desktop\Bolsa_Empleados\Bolsa_Empleados\obj\Debug\Bolsa_Empleados.dll
+C:\Users\Hector\Desktop\Bolsa_Empleados\Bolsa_Empleados\obj\Debug\Bolsa_Empleados.pdb
+C:\Users\loida\Desktop\Bolsa_de_empleo_proyecto\Bolsa_EmpleadosApi\Bolsa_EmpleadosApi\Bolsa_Empleados\bin\Bolsa_Empleados.dll.config
+C:\Users\loida\Desktop\Bolsa_de_empleo_proyecto\Bolsa_EmpleadosApi\Bolsa_EmpleadosApi\Bolsa_Empleados\bin\Bolsa_Empleados.dll
+C:\Users\loida\Desktop\Bolsa_de_empleo_proyecto\Bolsa_EmpleadosApi\Bolsa_EmpleadosApi\Bolsa_Empleados\bin\Bolsa_Empleados.pdb
+C:\Users\loida\Desktop\Bolsa_de_empleo_proyecto\Bolsa_EmpleadosApi\Bolsa_EmpleadosApi\Bolsa_Empleados\bin\roslyn\csc.exe
+C:\Users\loida\Desktop\Bolsa_de_empleo_proyecto\Bolsa_EmpleadosApi\Bolsa_EmpleadosApi\Bolsa_Empleados\bin\roslyn\csc.exe.config
+C:\Users\loida\Desktop\Bolsa_de_empleo_proyecto\Bolsa_EmpleadosApi\Bolsa_EmpleadosApi\Bolsa_Empleados\bin\roslyn\csc.rsp
+C:\Users\loida\Desktop\Bolsa_de_empleo_proyecto\Bolsa_EmpleadosApi\Bolsa_EmpleadosApi\Bolsa_Empleados\bin\roslyn\csi.exe
+C:\Users\loida\Desktop\Bolsa_de_empleo_proyecto\Bolsa_EmpleadosApi\Bolsa_EmpleadosApi\Bolsa_Empleados\bin\roslyn\csi.exe.config
+C:\Users\loida\Desktop\Bolsa_de_empleo_proyecto\Bolsa_EmpleadosApi\Bolsa_EmpleadosApi\Bolsa_Empleados\bin\roslyn\csi.rsp
+C:\Users\loida\Desktop\Bolsa_de_empleo_proyecto\Bolsa_EmpleadosApi\Bolsa_EmpleadosApi\Bolsa_Empleados\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\loida\Desktop\Bolsa_de_empleo_proyecto\Bolsa_EmpleadosApi\Bolsa_EmpleadosApi\Bolsa_Empleados\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\loida\Desktop\Bolsa_de_empleo_proyecto\Bolsa_EmpleadosApi\Bolsa_EmpleadosApi\Bolsa_Empleados\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\loida\Desktop\Bolsa_de_empleo_proyecto\Bolsa_EmpleadosApi\Bolsa_EmpleadosApi\Bolsa_Empleados\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\loida\Desktop\Bolsa_de_empleo_proyecto\Bolsa_EmpleadosApi\Bolsa_EmpleadosApi\Bolsa_Empleados\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\loida\Desktop\Bolsa_de_empleo_proyecto\Bolsa_EmpleadosApi\Bolsa_EmpleadosApi\Bolsa_Empleados\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\loida\Desktop\Bolsa_de_empleo_proyecto\Bolsa_EmpleadosApi\Bolsa_EmpleadosApi\Bolsa_Empleados\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\loida\Desktop\Bolsa_de_empleo_proyecto\Bolsa_EmpleadosApi\Bolsa_EmpleadosApi\Bolsa_Empleados\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\loida\Desktop\Bolsa_de_empleo_proyecto\Bolsa_EmpleadosApi\Bolsa_EmpleadosApi\Bolsa_Empleados\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\loida\Desktop\Bolsa_de_empleo_proyecto\Bolsa_EmpleadosApi\Bolsa_EmpleadosApi\Bolsa_Empleados\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\loida\Desktop\Bolsa_de_empleo_proyecto\Bolsa_EmpleadosApi\Bolsa_EmpleadosApi\Bolsa_Empleados\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\loida\Desktop\Bolsa_de_empleo_proyecto\Bolsa_EmpleadosApi\Bolsa_EmpleadosApi\Bolsa_Empleados\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\loida\Desktop\Bolsa_de_empleo_proyecto\Bolsa_EmpleadosApi\Bolsa_EmpleadosApi\Bolsa_Empleados\bin\roslyn\System.AppContext.dll
+C:\Users\loida\Desktop\Bolsa_de_empleo_proyecto\Bolsa_EmpleadosApi\Bolsa_EmpleadosApi\Bolsa_Empleados\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\loida\Desktop\Bolsa_de_empleo_proyecto\Bolsa_EmpleadosApi\Bolsa_EmpleadosApi\Bolsa_Empleados\bin\roslyn\System.Console.dll
+C:\Users\loida\Desktop\Bolsa_de_empleo_proyecto\Bolsa_EmpleadosApi\Bolsa_EmpleadosApi\Bolsa_Empleados\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\loida\Desktop\Bolsa_de_empleo_proyecto\Bolsa_EmpleadosApi\Bolsa_EmpleadosApi\Bolsa_Empleados\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\loida\Desktop\Bolsa_de_empleo_proyecto\Bolsa_EmpleadosApi\Bolsa_EmpleadosApi\Bolsa_Empleados\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\loida\Desktop\Bolsa_de_empleo_proyecto\Bolsa_EmpleadosApi\Bolsa_EmpleadosApi\Bolsa_Empleados\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\loida\Desktop\Bolsa_de_empleo_proyecto\Bolsa_EmpleadosApi\Bolsa_EmpleadosApi\Bolsa_Empleados\bin\roslyn\System.IO.Compression.dll
+C:\Users\loida\Desktop\Bolsa_de_empleo_proyecto\Bolsa_EmpleadosApi\Bolsa_EmpleadosApi\Bolsa_Empleados\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\loida\Desktop\Bolsa_de_empleo_proyecto\Bolsa_EmpleadosApi\Bolsa_EmpleadosApi\Bolsa_Empleados\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\loida\Desktop\Bolsa_de_empleo_proyecto\Bolsa_EmpleadosApi\Bolsa_EmpleadosApi\Bolsa_Empleados\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\loida\Desktop\Bolsa_de_empleo_proyecto\Bolsa_EmpleadosApi\Bolsa_EmpleadosApi\Bolsa_Empleados\bin\roslyn\System.Net.Http.dll
+C:\Users\loida\Desktop\Bolsa_de_empleo_proyecto\Bolsa_EmpleadosApi\Bolsa_EmpleadosApi\Bolsa_Empleados\bin\roslyn\System.Net.Sockets.dll
+C:\Users\loida\Desktop\Bolsa_de_empleo_proyecto\Bolsa_EmpleadosApi\Bolsa_EmpleadosApi\Bolsa_Empleados\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\loida\Desktop\Bolsa_de_empleo_proyecto\Bolsa_EmpleadosApi\Bolsa_EmpleadosApi\Bolsa_Empleados\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\loida\Desktop\Bolsa_de_empleo_proyecto\Bolsa_EmpleadosApi\Bolsa_EmpleadosApi\Bolsa_Empleados\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\loida\Desktop\Bolsa_de_empleo_proyecto\Bolsa_EmpleadosApi\Bolsa_EmpleadosApi\Bolsa_Empleados\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\loida\Desktop\Bolsa_de_empleo_proyecto\Bolsa_EmpleadosApi\Bolsa_EmpleadosApi\Bolsa_Empleados\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\loida\Desktop\Bolsa_de_empleo_proyecto\Bolsa_EmpleadosApi\Bolsa_EmpleadosApi\Bolsa_Empleados\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\loida\Desktop\Bolsa_de_empleo_proyecto\Bolsa_EmpleadosApi\Bolsa_EmpleadosApi\Bolsa_Empleados\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\loida\Desktop\Bolsa_de_empleo_proyecto\Bolsa_EmpleadosApi\Bolsa_EmpleadosApi\Bolsa_Empleados\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\loida\Desktop\Bolsa_de_empleo_proyecto\Bolsa_EmpleadosApi\Bolsa_EmpleadosApi\Bolsa_Empleados\bin\roslyn\System.ValueTuple.dll
+C:\Users\loida\Desktop\Bolsa_de_empleo_proyecto\Bolsa_EmpleadosApi\Bolsa_EmpleadosApi\Bolsa_Empleados\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\loida\Desktop\Bolsa_de_empleo_proyecto\Bolsa_EmpleadosApi\Bolsa_EmpleadosApi\Bolsa_Empleados\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\loida\Desktop\Bolsa_de_empleo_proyecto\Bolsa_EmpleadosApi\Bolsa_EmpleadosApi\Bolsa_Empleados\bin\roslyn\System.Xml.XPath.dll
+C:\Users\loida\Desktop\Bolsa_de_empleo_proyecto\Bolsa_EmpleadosApi\Bolsa_EmpleadosApi\Bolsa_Empleados\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\loida\Desktop\Bolsa_de_empleo_proyecto\Bolsa_EmpleadosApi\Bolsa_EmpleadosApi\Bolsa_Empleados\bin\roslyn\vbc.exe
+C:\Users\loida\Desktop\Bolsa_de_empleo_proyecto\Bolsa_EmpleadosApi\Bolsa_EmpleadosApi\Bolsa_Empleados\bin\roslyn\vbc.exe.config
+C:\Users\loida\Desktop\Bolsa_de_empleo_proyecto\Bolsa_EmpleadosApi\Bolsa_EmpleadosApi\Bolsa_Empleados\bin\roslyn\vbc.rsp
+C:\Users\loida\Desktop\Bolsa_de_empleo_proyecto\Bolsa_EmpleadosApi\Bolsa_EmpleadosApi\Bolsa_Empleados\bin\roslyn\VBCSCompiler.exe
+C:\Users\loida\Desktop\Bolsa_de_empleo_proyecto\Bolsa_EmpleadosApi\Bolsa_EmpleadosApi\Bolsa_Empleados\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\loida\Desktop\Bolsa_de_empleo_proyecto\Bolsa_EmpleadosApi\Bolsa_EmpleadosApi\Bolsa_Empleados\bin\EntityFramework.dll
+C:\Users\loida\Desktop\Bolsa_de_empleo_proyecto\Bolsa_EmpleadosApi\Bolsa_EmpleadosApi\Bolsa_Empleados\bin\EntityFramework.SqlServer.dll
+C:\Users\loida\Desktop\Bolsa_de_empleo_proyecto\Bolsa_EmpleadosApi\Bolsa_EmpleadosApi\Bolsa_Empleados\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\loida\Desktop\Bolsa_de_empleo_proyecto\Bolsa_EmpleadosApi\Bolsa_EmpleadosApi\Bolsa_Empleados\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\loida\Desktop\Bolsa_de_empleo_proyecto\Bolsa_EmpleadosApi\Bolsa_EmpleadosApi\Bolsa_Empleados\bin\Newtonsoft.Json.dll
+C:\Users\loida\Desktop\Bolsa_de_empleo_proyecto\Bolsa_EmpleadosApi\Bolsa_EmpleadosApi\Bolsa_Empleados\bin\System.Net.Http.Formatting.dll
+C:\Users\loida\Desktop\Bolsa_de_empleo_proyecto\Bolsa_EmpleadosApi\Bolsa_EmpleadosApi\Bolsa_Empleados\bin\System.Web.Helpers.dll
+C:\Users\loida\Desktop\Bolsa_de_empleo_proyecto\Bolsa_EmpleadosApi\Bolsa_EmpleadosApi\Bolsa_Empleados\bin\System.Web.Http.dll
+C:\Users\loida\Desktop\Bolsa_de_empleo_proyecto\Bolsa_EmpleadosApi\Bolsa_EmpleadosApi\Bolsa_Empleados\bin\System.Web.Http.WebHost.dll
+C:\Users\loida\Desktop\Bolsa_de_empleo_proyecto\Bolsa_EmpleadosApi\Bolsa_EmpleadosApi\Bolsa_Empleados\bin\System.Web.Mvc.dll
+C:\Users\loida\Desktop\Bolsa_de_empleo_proyecto\Bolsa_EmpleadosApi\Bolsa_EmpleadosApi\Bolsa_Empleados\bin\System.Web.Optimization.dll
+C:\Users\loida\Desktop\Bolsa_de_empleo_proyecto\Bolsa_EmpleadosApi\Bolsa_EmpleadosApi\Bolsa_Empleados\bin\System.Web.Razor.dll
+C:\Users\loida\Desktop\Bolsa_de_empleo_proyecto\Bolsa_EmpleadosApi\Bolsa_EmpleadosApi\Bolsa_Empleados\bin\System.Web.WebPages.Deployment.dll
+C:\Users\loida\Desktop\Bolsa_de_empleo_proyecto\Bolsa_EmpleadosApi\Bolsa_EmpleadosApi\Bolsa_Empleados\bin\System.Web.WebPages.dll
+C:\Users\loida\Desktop\Bolsa_de_empleo_proyecto\Bolsa_EmpleadosApi\Bolsa_EmpleadosApi\Bolsa_Empleados\bin\System.Web.WebPages.Razor.dll
+C:\Users\loida\Desktop\Bolsa_de_empleo_proyecto\Bolsa_EmpleadosApi\Bolsa_EmpleadosApi\Bolsa_Empleados\bin\WebGrease.dll
+C:\Users\loida\Desktop\Bolsa_de_empleo_proyecto\Bolsa_EmpleadosApi\Bolsa_EmpleadosApi\Bolsa_Empleados\bin\EntityFramework.xml
+C:\Users\loida\Desktop\Bolsa_de_empleo_proyecto\Bolsa_EmpleadosApi\Bolsa_EmpleadosApi\Bolsa_Empleados\bin\EntityFramework.SqlServer.xml
+C:\Users\loida\Desktop\Bolsa_de_empleo_proyecto\Bolsa_EmpleadosApi\Bolsa_EmpleadosApi\Bolsa_Empleados\bin\Newtonsoft.Json.xml
+C:\Users\loida\Desktop\Bolsa_de_empleo_proyecto\Bolsa_EmpleadosApi\Bolsa_EmpleadosApi\Bolsa_Empleados\bin\System.Net.Http.Formatting.xml
+C:\Users\loida\Desktop\Bolsa_de_empleo_proyecto\Bolsa_EmpleadosApi\Bolsa_EmpleadosApi\Bolsa_Empleados\bin\System.Web.Helpers.xml
+C:\Users\loida\Desktop\Bolsa_de_empleo_proyecto\Bolsa_EmpleadosApi\Bolsa_EmpleadosApi\Bolsa_Empleados\bin\System.Web.Http.xml
+C:\Users\loida\Desktop\Bolsa_de_empleo_proyecto\Bolsa_EmpleadosApi\Bolsa_EmpleadosApi\Bolsa_Empleados\bin\System.Web.Http.WebHost.xml
+C:\Users\loida\Desktop\Bolsa_de_empleo_proyecto\Bolsa_EmpleadosApi\Bolsa_EmpleadosApi\Bolsa_Empleados\bin\System.Web.Mvc.xml
+C:\Users\loida\Desktop\Bolsa_de_empleo_proyecto\Bolsa_EmpleadosApi\Bolsa_EmpleadosApi\Bolsa_Empleados\bin\System.Web.Optimization.xml
+C:\Users\loida\Desktop\Bolsa_de_empleo_proyecto\Bolsa_EmpleadosApi\Bolsa_EmpleadosApi\Bolsa_Empleados\bin\System.Web.Razor.xml
+C:\Users\loida\Desktop\Bolsa_de_empleo_proyecto\Bolsa_EmpleadosApi\Bolsa_EmpleadosApi\Bolsa_Empleados\bin\System.Web.WebPages.xml
+C:\Users\loida\Desktop\Bolsa_de_empleo_proyecto\Bolsa_EmpleadosApi\Bolsa_EmpleadosApi\Bolsa_Empleados\bin\System.Web.WebPages.Deployment.xml
+C:\Users\loida\Desktop\Bolsa_de_empleo_proyecto\Bolsa_EmpleadosApi\Bolsa_EmpleadosApi\Bolsa_Empleados\bin\System.Web.WebPages.Razor.xml
+C:\Users\loida\Desktop\Bolsa_de_empleo_proyecto\Bolsa_EmpleadosApi\Bolsa_EmpleadosApi\Bolsa_Empleados\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\loida\Desktop\Bolsa_de_empleo_proyecto\Bolsa_EmpleadosApi\Bolsa_EmpleadosApi\Bolsa_Empleados\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\loida\Desktop\Bolsa_de_empleo_proyecto\Bolsa_EmpleadosApi\Bolsa_EmpleadosApi\Bolsa_Empleados\bin\es\System.Web.Helpers.resources.dll
+C:\Users\loida\Desktop\Bolsa_de_empleo_proyecto\Bolsa_EmpleadosApi\Bolsa_EmpleadosApi\Bolsa_Empleados\bin\es\System.Web.Http.resources.dll
+C:\Users\loida\Desktop\Bolsa_de_empleo_proyecto\Bolsa_EmpleadosApi\Bolsa_EmpleadosApi\Bolsa_Empleados\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\loida\Desktop\Bolsa_de_empleo_proyecto\Bolsa_EmpleadosApi\Bolsa_EmpleadosApi\Bolsa_Empleados\bin\es\System.Web.Mvc.resources.dll
+C:\Users\loida\Desktop\Bolsa_de_empleo_proyecto\Bolsa_EmpleadosApi\Bolsa_EmpleadosApi\Bolsa_Empleados\bin\es\System.Web.Optimization.resources.dll
+C:\Users\loida\Desktop\Bolsa_de_empleo_proyecto\Bolsa_EmpleadosApi\Bolsa_EmpleadosApi\Bolsa_Empleados\bin\es\System.Web.Razor.resources.dll
+C:\Users\loida\Desktop\Bolsa_de_empleo_proyecto\Bolsa_EmpleadosApi\Bolsa_EmpleadosApi\Bolsa_Empleados\bin\es\System.Web.WebPages.resources.dll
+C:\Users\loida\Desktop\Bolsa_de_empleo_proyecto\Bolsa_EmpleadosApi\Bolsa_EmpleadosApi\Bolsa_Empleados\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\loida\Desktop\Bolsa_de_empleo_proyecto\Bolsa_EmpleadosApi\Bolsa_EmpleadosApi\Bolsa_Empleados\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\loida\Desktop\Bolsa_de_empleo_proyecto\Bolsa_EmpleadosApi\Bolsa_EmpleadosApi\Bolsa_Empleados\obj\Debug\Bolsa_Empleados.csprojAssemblyReference.cache
+C:\Users\loida\Desktop\Bolsa_de_empleo_proyecto\Bolsa_EmpleadosApi\Bolsa_EmpleadosApi\Bolsa_Empleados\obj\Debug\Bolsa_Empleados.csproj.CoreCompileInputs.cache
+C:\Users\loida\Desktop\Bolsa_de_empleo_proyecto\Bolsa_EmpleadosApi\Bolsa_EmpleadosApi\Bolsa_Empleados\obj\Debug\Bolsa_Empleados.csproj.CopyComplete
+C:\Users\loida\Desktop\Bolsa_de_empleo_proyecto\Bolsa_EmpleadosApi\Bolsa_EmpleadosApi\Bolsa_Empleados\obj\Debug\Bolsa_Empleados.dll
+C:\Users\loida\Desktop\Bolsa_de_empleo_proyecto\Bolsa_EmpleadosApi\Bolsa_EmpleadosApi\Bolsa_Empleados\obj\Debug\Bolsa_Empleados.pdb
